@@ -1,6 +1,6 @@
 # web.dev
 
-![Continuous integration](https://github.com/GoogleChrome/web.dev/workflows/Continuous%20integration/badge.svg)
+![Continuous integration](https://web.dev/images/apple-touch-icon.png)
 
 web.dev is the ultimate resource for developers of all backgrounds to learn,
 create, and solve on the web. It's meant to not only educate developers, but
@@ -136,3 +136,10 @@ If you need to debug the site's build process:
   width="295"
   alt="The Chrome inspect page showing the inspect button"
   src="https://user-images.githubusercontent.com/1066253/61085691-bf125a00-a3e5-11e9-9151-58bd8a50d404.png">
+
+
+## Contributors
+
+<a href="https://github.com/googlechrome/web.dev/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=googlechrome/web.dev" />
+</a>
